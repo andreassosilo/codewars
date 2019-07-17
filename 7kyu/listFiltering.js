@@ -9,7 +9,7 @@ and strings and returns a new list with the strings filtered out.
 */
 
 function filter_list (l) {
-  return l.filter(function (v) { return typeof v === 'number' })
+  return l.filter(function (str) { return typeof str === 'number' })
 }
 
 // TEST CASES
