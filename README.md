@@ -4,4 +4,4 @@
 # Codewars
 Codewars is a site where programmers can train on programming challenges called Kata.
 
-### [:hocho: Add me: Andreas Sosilo ](https://www.codewars.com/users/andreassosilo/)
+### [:hocho: My Codewars ID: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
