@@ -1,4 +1,4 @@
-<img height="70" src="https://miro.medium.com/max/1050/1*a9L7ZZhi8hIAJmWXmSaPXw.png">
+<img height="170" src="https://miro.medium.com/max/1050/1*a9L7ZZhi8hIAJmWXmSaPXw.png">
 
 
 # Codewars
