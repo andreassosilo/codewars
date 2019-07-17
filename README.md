@@ -17,5 +17,9 @@ Codewars is a site where programmers can train on programming challenges called 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/7kyu)
 - :cherry_blossom:
 [**Find the divisors!**](https://github.com/andreassosilo/codewars/blob/master/7kyu/divisor.js)
+- :cherry_blossom:
+[**List Filtering**](https://github.com/andreassosilo/codewars/blob/master/7kyu/listFiltering.js)
+- :cherry_blossom:
+[**Isograms**](https://github.com/andreassosilo/codewars/blob/master/7kyu/isograms.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
