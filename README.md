@@ -6,7 +6,7 @@ Codewars is a site where programmers can train on programming challenges called 
 
 ### [:hocho: My Codewars ID: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
 
-## Solved Kata:
+# Solved Kata:
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/8kyu)
 - :cherry_blossom:
 [**Multiply**](https://github.com/andreassosilo/codewars/blob/master/8kyu/multiply.js)
