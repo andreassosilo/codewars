@@ -6,7 +6,7 @@ Codewars is a site where programmers can train on programming challenges called 
 
 <img src="https://www.codewars.com/users/andreassosilo/badges/large">
 
-### [:crossed_swords: Codewars ID: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
+### [:crossed_swords: ID: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
 ### [:fox_face: Clan: Hacktiv8 ](https://www.codewars.com/users/andreassosilo/)
 
 ## Solved Kata:
