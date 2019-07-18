@@ -17,6 +17,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Swap Values**](https://github.com/andreassosilo/codewars/blob/master/8kyu/swapValues.js)
 - :cherry_blossom:
 [**Simple Multiplication**](https://github.com/andreassosilo/codewars/blob/master/8kyu/simpleMultiplication.js)
+- :cherry_blossom:
+[**Total amount of points**](https://github.com/andreassosilo/codewars/blob/master/8kyu/totalPoints.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/7kyu)
 - :cherry_blossom:
