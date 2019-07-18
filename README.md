@@ -15,6 +15,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Multiply**](https://github.com/andreassosilo/codewars/blob/master/8kyu/multiply.js)
 - :cherry_blossom:
 [**Swap Values**](https://github.com/andreassosilo/codewars/blob/master/8kyu/swapValues.js)
+- :cherry_blossom:
+[**Simple Multiplication**](https://github.com/andreassosilo/codewars/blob/master/8kyu/simpleMultiplication.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/7kyu)
 - :cherry_blossom:
@@ -25,5 +27,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Isograms**](https://github.com/andreassosilo/codewars/blob/master/7kyu/isograms.js)
 - :cherry_blossom:
 [**Reverse Words**](https://github.com/andreassosilo/codewars/blob/master/7kyu/reverseWords.js)
+- :cherry_blossom:
+[**Case Swapping**](https://github.com/andreassosilo/codewars/blob/master/7kyu/caseSwapping.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
