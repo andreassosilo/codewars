@@ -25,5 +25,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Isograms**](https://github.com/andreassosilo/codewars/blob/master/7kyu/isograms.js)
 - :cherry_blossom:
 [**Reverse Words**](https://github.com/andreassosilo/codewars/blob/master/7kyu/reverseWords.js)
+- :cherry_blossom:
+[**Case Swapping**](https://github.com/andreassosilo/codewars/blob/master/7kyu/caseSwapping.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
