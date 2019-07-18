@@ -4,7 +4,7 @@
 # Codewars
 Codewars is a site where programmers can train on programming challenges called *Kata*. This is my repository for my kata collections in Codewars. Feel free to check and do not forget to like or give star for this repository! Thank you.
 
-<img src="https://www.codewars.com/users/andreassosilo/badges/large">(https://www.codewars.com/users/andreassosilo/)
+[<img src="https://www.codewars.com/users/andreassosilo/badges/large">](https://www.codewars.com/users/andreassosilo/)
 
 ### [:crossed_swords: User: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
 ### [:fox_face: Clan: Hacktiv8 ](https://www.codewars.com/users/andreassosilo/)
