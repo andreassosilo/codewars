@@ -21,5 +21,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**List Filtering**](https://github.com/andreassosilo/codewars/blob/master/7kyu/listFiltering.js)
 - :cherry_blossom:
 [**Isograms**](https://github.com/andreassosilo/codewars/blob/master/7kyu/isograms.js)
+- :cherry_blossom:
+[**Reverse Words**](https://github.com/andreassosilo/codewars/blob/master/7kyu/reverseWords.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
