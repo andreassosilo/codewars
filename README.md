@@ -39,3 +39,7 @@ Codewars is a site where programmers can train on programming challenges called 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
 - :cherry_blossom:
 [**Find the missing letter**](https://github.com/andreassosilo/codewars/blob/master/6kyu/missingLetter.js)
+
+### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/5kyu)
+- :cherry_blossom:
+[**Find the missing letter**](https://github.com/andreassosilo/codewars/blob/master/5kyu/readableTime.js)
