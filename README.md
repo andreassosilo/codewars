@@ -41,6 +41,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Find the missing letter**](https://github.com/andreassosilo/codewars/blob/master/6kyu/missingLetter.js)
 - :cherry_blossom:
 [**Find the odd int**](https://github.com/andreassosilo/codewars/blob/master/6kyu/findOddInt.js)
+- :cherry_blossom:
+[**Consecutive strings**](https://github.com/andreassosilo/codewars/blob/master/6kyu/consecutiveStrings.js)
 
 ### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/5kyu)
 - :cherry_blossom:
