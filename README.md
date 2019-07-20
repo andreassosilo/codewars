@@ -27,6 +27,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**get ascii value of character**](https://github.com/andreassosilo/codewars/blob/master/8kyu/asciiValueChar.js)
 - :cherry_blossom:
 [**get character from ASCII Value**](https://github.com/andreassosilo/codewars/blob/master/8kyu/getCharFromAscii.js)
+- :cherry_blossom:
+[**Square(n) Sum**](https://github.com/andreassosilo/codewars/blob/master/8kyu/squareNSum.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/7kyu)
 - :cherry_blossom:
