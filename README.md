@@ -51,6 +51,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Find the unique number**](https://github.com/andreassosilo/codewars/blob/master/6kyu/uniqueNumber.js)
 - :cherry_blossom:
 [**Shortest steps to a number**](https://github.com/andreassosilo/codewars/blob/master/6kyu/shortestStepsNumber.js)
+- :cherry_blossom:
+[**ThetaFormulation**](https://github.com/andreassosilo/codewars/blob/master/6kyu/thetaFormulation.js)
 
 ### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/5kyu)
 - :cherry_blossom:
