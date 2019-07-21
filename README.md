@@ -4,8 +4,6 @@
 # Codewars
 Codewars is a site where programmers can train on programming challenges called *Kata*. This is my repository for my kata collections in Codewars. **Feel free to check and do not forget to like or give star for this repository! Thank you.**
 
-[![HitCount](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars.svg)](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars)
-
 [<img src="https://www.codewars.com/users/andreassosilo/badges/large">](https://www.codewars.com/users/andreassosilo/)
 
 ### [:crossed_swords: User: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
@@ -75,3 +73,6 @@ Codewars is a site where programmers can train on programming challenges called 
 ### [:open_file_folder: 4 Kyu](https://github.com/andreassosilo/codewars/tree/master/4kyu)
 - :cherry_blossom:
 [**Snail**](https://github.com/andreassosilo/codewars/blob/master/4kyu/snail.js)
+
+### Number of views:
+[![HitCount](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars.svg)](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars)
