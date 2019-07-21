@@ -63,3 +63,5 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Human Readable Time**](https://github.com/andreassosilo/codewars/blob/master/5kyu/readableTime.js)
 - :cherry_blossom:
 [**Simple Pig Latin**](https://github.com/andreassosilo/codewars/blob/master/5kyu/pigLatin.js)
+- :cherry_blossom:
+[**Moving Zeros To The End**](https://github.com/andreassosilo/codewars/blob/master/5kyu/moveZeroToEnd.js)
