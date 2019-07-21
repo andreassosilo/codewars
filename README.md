@@ -74,5 +74,6 @@ Codewars is a site where programmers can train on programming challenges called 
 - :cherry_blossom:
 [**Snail**](https://github.com/andreassosilo/codewars/blob/master/4kyu/snail.js)
 
+---
 ### Number of views:
 [![HitCount](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars.svg)](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars)
