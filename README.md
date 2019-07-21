@@ -76,4 +76,4 @@ Codewars is a site where programmers can train on programming challenges called 
 
 ---
 ### Number of views: 
-[![HitCount](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars.svg)]
+![HitCount](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars.svg)
