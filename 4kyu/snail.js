@@ -33,15 +33,15 @@ function snail (array) {
   let snailArr = []
   // Looping until all the array elements are pushed into the new array
   while (array.length) {
-    // Removes the first element from input array and push it to new array (... duplicate/.concat())
+    //  Get the first row and push it to new array (... duplicate/.concat())
     snailArr.push(...array.shift())
-    // Get the next row from input array and pop the last element inside it and push to the new array
+    // Get the right items and push to the new array
     for (let i = 0; i < array.length; i++) {
       snailArr.push(array[i].pop())
     }
-    // Pop the last element in the array and push it to the new array
+    // Get the bottom row and push it to the new array
     snailArr.push(...(array.pop() || []).reverse())
-    // Take the first element in each row, start from the last row -> push to the new array
+    // Get the left items -> push to the new array
     for (let i = array.length - 1; i >= 0; i--) {
       snailArr.push(array[i].shift())
     }
