@@ -64,4 +64,4 @@ Codewars is a site where programmers can train on programming challenges called 
 - :cherry_blossom:
 [**Simple Pig Latin**](https://github.com/andreassosilo/codewars/blob/master/5kyu/pigLatin.js)
 - :cherry_blossom:
-[**Moving Zeros To The End**](https://github.com/andreassosilo/codewars/blob/master/5kyu/moveZeroToEnd.js)
+[**Moving Zeros To The End**](https://github.com/andreassosilo/codewars/blob/master/5kyu/movingZeroToEnd.js)
