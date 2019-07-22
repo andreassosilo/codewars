@@ -31,6 +31,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Square(n) Sum**](https://github.com/andreassosilo/codewars/blob/master/8kyu/squareNSum.js)
 - :cherry_blossom:
 [**Sentence Smash**](https://github.com/andreassosilo/codewars/blob/master/8kyu/sentenceSmash.js)
+- :cherry_blossom:
+[**Even or Odd**](https://github.com/andreassosilo/codewars/blob/master/8kyu/evenOrOdd.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/7kyu)
 - :cherry_blossom:
