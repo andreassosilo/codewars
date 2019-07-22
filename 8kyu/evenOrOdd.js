@@ -4,10 +4,8 @@
 /*
 Task:
 -----
-Get ascii value of character
-
-write a function getASCII which inputs a character and returns the
-corresponding ascii value for that character. Example : getASCII('A') => 65
+Create a function (or write a script in Shell) that takes an integer as an
+argument and returns "Even" for even numbers or "Odd" for odd numbers.
 */
 
 function even_or_odd (number) {
