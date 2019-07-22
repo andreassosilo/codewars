@@ -11,12 +11,8 @@ corresponding ascii value for that character. Example : getASCII('A') => 65
 */
 
 function even_or_odd (number) {
-  // Check if the input number is even number or odd number using modulus
-  if (number % 2 === 0) {
-    return 'Even'
-  } else {
-    return 'Odd'
-  }
+  // Check if the input number is even number or odd number using modulus and ternary
+  return number % 2 ? 'Odd' : 'Even'
 }
 
 // TEST CASES
