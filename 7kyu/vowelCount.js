@@ -12,7 +12,7 @@ The input string will only consist of lower case letters and/or spaces.
 */
 
 function getCount (str) {
-  // Using regex fint the match vowel in the input string, return the length of the output array
+  // Using regex find the match vowel in the input string, return the length of the output array
   return (str.match(/[aeiou]/ig) || []).length
 }
 
