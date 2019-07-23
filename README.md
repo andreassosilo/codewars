@@ -49,6 +49,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Case Swapping**](https://github.com/andreassosilo/codewars/blob/master/7kyu/caseSwapping.js)
 - :cherry_blossom:
 [**Vowel Count**](https://github.com/andreassosilo/codewars/blob/master/7kyu/vowelCount.js)
+- :cherry_blossom:
+[**Get the Middle Character**](https://github.com/andreassosilo/codewars/blob/master/7kyu/middleCharacter.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
 - :cherry_blossom:
