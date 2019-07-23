@@ -36,7 +36,7 @@ Codewars is a site where programmers can train on programming challenges called 
 - :cherry_blossom:
 [**Opposite number**](https://github.com/andreassosilo/codewars/blob/master/8kyu/oppositeNumber.js)
 - :cherry_blossom:
-[**Find the smallest integer in the array**](https://github.com/andreassosilo/codewars/blob/master/8kyu/smallesIntArray.js)
+[**Find the smallest integer in the array**](https://github.com/andreassosilo/codewars/blob/master/8kyu/smallestIntArray.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/7kyu)
 - :cherry_blossom:
