@@ -55,6 +55,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Get the Middle Character**](https://github.com/andreassosilo/codewars/blob/master/7kyu/middleCharacter.js)
 - :cherry_blossom:
 [**Mumbling**](https://github.com/andreassosilo/codewars/blob/master/7kyu/mumbling.js)
+- :cherry_blossom:
+[**You're a square!**](https://github.com/andreassosilo/codewars/blob/master/7kyu/youAreSquare.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
 - :cherry_blossom:
