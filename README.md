@@ -67,6 +67,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**ThetaFormulation**](https://github.com/andreassosilo/codewars/blob/master/6kyu/thetaFormulation.js)
 - :cherry_blossom:
 [**Multiples of 3 or 5**](https://github.com/andreassosilo/codewars/blob/master/6kyu/multiple3Or5.js)
+- :cherry_blossom:
+[**Sum of Digits / Digital Root**](https://github.com/andreassosilo/codewars/blob/master/6kyu/digitalRoot.js)
 
 ### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/5kyu)
 - :cherry_blossom:
