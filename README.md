@@ -106,6 +106,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Snail**](https://github.com/andreassosilo/codewars/blob/master/4kyu/snail.js)
 - :cherry_blossom:
 [**Twice linear**](https://github.com/andreassosilo/codewars/blob/master/4kyu/twiceLinear.js)
+- :cherry_blossom:
+[**Next bigger number with the same digits**](https://github.com/andreassosilo/codewars/blob/master/4kyu/nextBiggerNumber.js)
 
 ---
 ### Number of views: 
