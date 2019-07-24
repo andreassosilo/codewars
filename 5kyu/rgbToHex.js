@@ -15,14 +15,16 @@ rgb(148, 0, 211) // returns 9400D3
 */
 
 function rgb (r, g, b) {
-  // complete this function
+  // Create new variable to save the end result
   let result = ''
   for (let i = 0; i < arguments.length; i++) {
+    // If value is less than 0, set the value to 0
     if (arguments[i] < 0) {
       arguments[i] = 0
-    } else if (arguments[i] > 255) {
+    } else if (arguments[i] > 255) { // If value is more than 255, set the value to 255
       arguments[i] = 255
     }
+    // Change the value to hexadecimal string with base 16
     let hexString = arguments[i].toString(16).toUpperCase()
     // console.log('before:' + hexString)
     hexString = ('0' + hexString).slice(-2)
@@ -31,6 +33,17 @@ function rgb (r, g, b) {
   }
   return result
 }
+
+// BEST SOLUTION
+// function rgb (r, g, b) {
+//   return toHex(r) + toHex(g) + toHex(b)
+// }
+
+// function toHex (d) {
+//   if (d < 0) { return '00'; }
+//   if (d > 255) { return 'FF'; }
+//   return ('0' + (Number(d).toString(16))).slice(-2).toUpperCase()
+// }
 
 // TEST CASES
 console.log(rgb(0, 0, 0)) // '000000'
