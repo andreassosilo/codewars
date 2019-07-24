@@ -105,6 +105,8 @@ Codewars is a site where programmers can train on programming challenges called 
 ### [:open_file_folder: 4 Kyu](https://github.com/andreassosilo/codewars/tree/master/4kyu)
 - :cherry_blossom:
 [**Snail**](https://github.com/andreassosilo/codewars/blob/master/4kyu/snail.js)
+- :cherry_blossom:
+[**Twice linear**](https://github.com/andreassosilo/codewars/blob/master/4kyu/twiceLinear.js)
 
 ---
 ### Number of views: 
