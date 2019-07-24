@@ -108,6 +108,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Twice linear**](https://github.com/andreassosilo/codewars/blob/master/4kyu/twiceLinear.js)
 - :cherry_blossom:
 [**Next bigger number with the same digits**](https://github.com/andreassosilo/codewars/blob/master/4kyu/nextBiggerNumber.js)
+- :cherry_blossom:
+[**Next smaller number with the same digits**](https://github.com/andreassosilo/codewars/blob/master/4kyu/nextSmallerNumber.js)
 
 ---
 ### Number of views: 
