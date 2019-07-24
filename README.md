@@ -100,6 +100,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Product of consecutive Fib numbers**](https://github.com/andreassosilo/codewars/blob/master/5kyu/productOfFibNum.js)
 - :cherry_blossom:
 [**Weight for weight**](https://github.com/andreassosilo/codewars/blob/master/5kyu/weightForWeight.js)
+- :cherry_blossom:
+[**Perimeter of squares in a rectanglet**](https://github.com/andreassosilo/codewars/blob/master/5kyu/perimeterSquareRectangle.js)
 
 ### [:open_file_folder: 4 Kyu](https://github.com/andreassosilo/codewars/tree/master/4kyu)
 - :cherry_blossom:
