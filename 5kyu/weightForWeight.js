@@ -1,5 +1,5 @@
 // Codewars - Andreas Sosilo
-// 5 kyu - Product of consecutive Fib numbers
+// 5 kyu - Weight for weight
 
 /*
 My friend John and I are members of the "Fat to Fit Club (FFC)". John is worried
@@ -31,6 +31,7 @@ Don't modify the input
 */
 
 function orderWeight (string) {
+  // Create arrays and object
   let weightArr = string.split(' ')
   let newOrder = []
   let result = []
