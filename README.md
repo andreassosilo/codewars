@@ -97,6 +97,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**RGB To Hex Conversion**](https://github.com/andreassosilo/codewars/blob/master/5kyu/rgbToHex.js)
 - :cherry_blossom:
 [**Convert A Hex String To RGB**](https://github.com/andreassosilo/codewars/blob/master/5kyu/hexToRGB.js)
+- :cherry_blossom:
+[**Product of consecutive Fib numbers**](https://github.com/andreassosilo/codewars/blob/master/5kyu/productOfFibNum.js)
 
 ### [:open_file_folder: 4 Kyu](https://github.com/andreassosilo/codewars/tree/master/4kyu)
 - :cherry_blossom:
