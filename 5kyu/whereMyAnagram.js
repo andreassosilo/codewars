@@ -44,6 +44,9 @@ function anagrams (word, words) {
   return result
 }
 
+// Using Array.from() and new Set() --> to find unique element from object/array and return new array
+// let b = Array.from(new Set(word.split('')))
+
 // // BEST PRACTICES
 // function anagrams (word, words) {
 //   return words.filter(function (e) {
