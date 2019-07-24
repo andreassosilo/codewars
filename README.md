@@ -91,6 +91,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Directions Reduction**](https://github.com/andreassosilo/codewars/blob/master/5kyu/directionsReduction.js)
 - :cherry_blossom:
 [**Calculating with Functions**](https://github.com/andreassosilo/codewars/blob/master/5kyu/calculatingFunctions.js)
+- :cherry_blossom:
+[**Where my anagrams at?**](https://github.com/andreassosilo/codewars/blob/master/5kyu/whereMyAnagram.js)
 
 ### [:open_file_folder: 4 Kyu](https://github.com/andreassosilo/codewars/tree/master/4kyu)
 - :cherry_blossom:
