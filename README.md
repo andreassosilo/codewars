@@ -93,6 +93,10 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Calculating with Functions**](https://github.com/andreassosilo/codewars/blob/master/5kyu/calculatingFunctions.js)
 - :cherry_blossom:
 [**Where my anagrams at?**](https://github.com/andreassosilo/codewars/blob/master/5kyu/whereMyAnagram.js)
+- :cherry_blossom:
+[**RGB To Hex Conversion**](https://github.com/andreassosilo/codewars/blob/master/5kyu/rgbToHex.js)
+- :cherry_blossom:
+[**Convert A Hex String To RGB**](https://github.com/andreassosilo/codewars/blob/master/5kyu/hexToRGB.js)
 
 ### [:open_file_folder: 4 Kyu](https://github.com/andreassosilo/codewars/tree/master/4kyu)
 - :cherry_blossom:
