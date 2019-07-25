@@ -81,7 +81,7 @@ Codewars is a site where programmers can train on programming challenges called 
 - :cherry_blossom:
 [**Who likes it?**](https://github.com/andreassosilo/codewars/blob/master/6kyu/whoLikesIt.js)
 - :cherry_blossom:
-[**Stop gninnipS My sdroW!**](https://github.com/andreassosilo/codewars/blob/master/6kyu/stopGninnipSMysdroW.js.js)
+[**Stop gninnipS My sdroW!**](https://github.com/andreassosilo/codewars/blob/master/6kyu/stopGninnipSMysdroW.js)
 
 ### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/5kyu)
 - :cherry_blossom:
