@@ -29,6 +29,13 @@ function spinWords (str) {
   return str.join(' ')
 }
 
+// BEST SOLUTION
+// function spinWords(words){
+//   return words.split(' ').map(function (word) {
+//     return (word.length > 4) ? word.split('').reverse().join('') : word;
+//   }).join(' ');
+// }
+
 // TEST CASES
 console.log(spinWords('Welcome')) // 'emocleW'
 console.log(spinWords('Hey fellow warriors')) // 'Hey wollef sroirraw'
