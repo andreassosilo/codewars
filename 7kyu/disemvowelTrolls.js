@@ -22,5 +22,9 @@ function disemvowel (str) {
   return str.match(/[^aeiou]/ig).join('')
 }
 
+// BEST SOLUTION
+// // Using RegEx and replace() to change the vowel into '' empty string
+// return str.replace(/[aeiou]/ig, '')
+
 // TEST CASES
 console.log(disemvowel('This website is for losers LOL!')) // 'Ths wbst s fr lsrs LL!'
