@@ -38,6 +38,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Find the smallest integer in the array**](https://github.com/andreassosilo/codewars/blob/master/8kyu/smallestIntArray.js)
 - :cherry_blossom:
 [**Sum of positive**](https://github.com/andreassosilo/codewars/blob/master/8kyu/sumOfPositive.js)
+- :cherry_blossom:
+[**String repeat**](https://github.com/andreassosilo/codewars/blob/master/8kyu/stringRepeat.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/7kyu)
 - :cherry_blossom:
@@ -60,6 +62,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**You're a square!**](https://github.com/andreassosilo/codewars/blob/master/7kyu/youAreSquare.js)
 - :cherry_blossom:
 [**Disemvowel Trolls**](https://github.com/andreassosilo/codewars/blob/master/7kyu/disemvowelTrolls.js)
+- :cherry_blossom:
+[**Highest and Lowest**](https://github.com/andreassosilo/codewars/blob/master/7kyu/highestLowest.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/6kyu)
 - :cherry_blossom:
