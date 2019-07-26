@@ -26,7 +26,7 @@ function findOutlier (integers) {
   let oddArr = integers.filter(function (num) {
     return num % 2 !== 0
   })
-  // Check if the filtered array has more element in even or odd array
+  // Check if the filtered array has more element in even or odd array -> return if only 1 element
   if (evenArr.length === 1) {
     return evenArr[0]
   } else {
