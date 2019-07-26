@@ -126,6 +126,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Sum of positive**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/sumOfPositive.js)
 - :cherry_blossom:
 [**String repeat**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/stringRepeat.js)
+- :cherry_blossom:
+[**Return Negative**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/returnNegative.js)
 
 ---
 ### Number of views: 
