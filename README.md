@@ -128,6 +128,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**String repeat**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/stringRepeat.js)
 - :cherry_blossom:
 [**Return Negative**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/returnNegative.js)
+- :cherry_blossom:
+[**Remove First and Last Character**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/removefirstLastChar.js)
 
 ---
 ### Number of views: 
