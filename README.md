@@ -129,7 +129,7 @@ Codewars is a site where programmers can train on programming challenges called 
 - :cherry_blossom:
 [**Return Negative**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/returnNegative.js)
 - :cherry_blossom:
-[**Remove First and Last Character**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/removefirstLastChar.js)
+[**Remove First and Last Character**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/removeFirstLastChar.js)
 
 ---
 ### Number of views: 
