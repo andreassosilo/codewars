@@ -96,6 +96,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Highest and Lowest**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/highestLowest.js)
 - :cherry_blossom:
 [**Exes and Ohs**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/exesAndOhs.js)
+- :cherry_blossom:
+[**Complementary DNA**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/complementaryDNA.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
