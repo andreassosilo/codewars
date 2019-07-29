@@ -33,6 +33,13 @@ function XO (str) {
   return countX === countO
 }
 
+// BEST SOLUTION USING MATCH()
+// function XO(str) {
+//   let x = str.match(/x/gi);
+//   let o = str.match(/o/gi);
+//   return (x && x.length) === (o && o.length);
+// }
+
 // TEST CASES
 console.log(XO('xo')) // true
 console.log(XO('xxOo')) // true
