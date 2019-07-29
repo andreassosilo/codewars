@@ -94,6 +94,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Disemvowel Trolls**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/disemvowelTrolls.js)
 - :cherry_blossom:
 [**Highest and Lowest**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/highestLowest.js)
+- :cherry_blossom:
+[**Exes and Ohs**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/exesAndOhs.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
