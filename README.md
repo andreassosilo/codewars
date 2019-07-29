@@ -70,6 +70,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Stop gninnipS My sdroW!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/stopGninnipSMysdroW.js)
 - :cherry_blossom:
 [**Find The Parity Outlier**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/findParityOutlier.js)
+- :cherry_blossom:
+[**Persistent Bugger.**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/persistentBugger.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
