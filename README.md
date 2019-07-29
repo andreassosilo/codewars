@@ -134,6 +134,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Remove First and Last Character**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/removeFirstLastChar.js)
 - :cherry_blossom:
 [**Convert boolean values to strings 'Yes' or 'No'**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/convertBooleanVal.js)
+- :cherry_blossom:
+[**Counting sheep...**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/countingSheep.js)
 
 ---
 ### Number of views: 
