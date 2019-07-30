@@ -46,6 +46,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Perimeter of squares in a rectanglet**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/5kyu/perimeterSquareRectangle.js)
 - :cherry_blossom:
 [**First non-repeating character**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/5kyu/nonRepeatingChar.js)
+- :cherry_blossom:
+[**The Hashtag Generator**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/5kyu/hashtagGenerator.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/6kyu)
 - :cherry_blossom:
