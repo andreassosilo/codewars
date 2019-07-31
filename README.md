@@ -144,6 +144,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Convert boolean values to strings 'Yes' or 'No'**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/convertBooleanVal.js)
 - :cherry_blossom:
 [**Counting sheep...**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/countingSheep.js)
+- :cherry_blossom:
+[**Reversed Words**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/reversedWords.js)
 
 ---
 ### Number of views: 
