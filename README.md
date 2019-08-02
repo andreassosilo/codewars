@@ -76,6 +76,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Persistent Bugger.**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/persistentBugger.js)
 - :cherry_blossom:
 [**Create Phone Number**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/createPhoneNumber.js)
+- :cherry_blossom:
+[**Array.diff**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/arrayDiff.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
