@@ -80,6 +80,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Create Phone Number**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/createPhoneNumber.js)
 - :cherry_blossom:
 [**Array.diff**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/arrayDiff.js)
+- :cherry_blossom:
+[**Take a Ten Minute Walk**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/takeTenMinuteWalk.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
