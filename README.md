@@ -110,6 +110,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Complementary DNA**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/complementaryDNA.js)
 - :cherry_blossom:
 [**Square Every Digit**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/squareEveryDigit.js)
+- :cherry_blossom:
+[**Shortest Word**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/shortestWord.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
