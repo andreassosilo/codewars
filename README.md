@@ -162,6 +162,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Remove String Spaces**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/removeStringSpaces.js)
 - :cherry_blossom:
 [**Grasshopper - Summation**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/grasshopperSummation.js)
+- :cherry_blossom:
+[**Reversed Strings**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/reversedStrings.js)
 
 ---
 ### Number of views: 
