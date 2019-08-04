@@ -18,6 +18,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Next bigger number with the same digits**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/nextBiggerNumber.js)
 - :cherry_blossom:
 [**Next smaller number with the same digits**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/nextSmallerNumber.js)
+- :cherry_blossom:
+[**Sudoku Solution Validator**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/sudokuSolutionValidator.js)
 
 ### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/5kyu)
 - :cherry_blossom:
