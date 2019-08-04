@@ -116,6 +116,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Square Every Digit**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/squareEveryDigit.js)
 - :cherry_blossom:
 [**Shortest Word**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/shortestWord.js)
+- :cherry_blossom:
+[**Jaden Casing Strings**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/jadenCasingStrings.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
