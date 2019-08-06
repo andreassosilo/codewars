@@ -124,6 +124,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Jaden Casing Strings**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/jadenCasingStrings.js)
 - :cherry_blossom:
 [**Descending Order**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/descendingOrder.js)
+- :cherry_blossom:
+[**Growth of a Population**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/growthOfPopulation.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
