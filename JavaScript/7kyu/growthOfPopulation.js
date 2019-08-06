@@ -1,5 +1,5 @@
 // Codewars - Andreas Sosilo
-// 8 kyu - Growth of a Population
+// 7 kyu - Growth of a Population
 
 /*
 Task:
