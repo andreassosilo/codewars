@@ -174,6 +174,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Reversed Strings**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/reversedStrings.js)
 - :cherry_blossom:
 [**Basic Mathematical Operations**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/basicMathematicalOperations.js)
+- :cherry_blossom:
+[**Jenny's secret message**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/jennySecretMessage.js)
 
 ---
 ### Number of views: 
