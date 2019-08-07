@@ -180,6 +180,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Basic Mathematical Operations**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/basicMathematicalOperations.js)
 - :cherry_blossom:
 [**Jenny's secret message**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/jennySecretMessage.js)
+- :cherry_blossom:
+[**Keep Hydrated!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/keepHydrated.js)
 
 ---
 ### Number of views: 
