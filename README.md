@@ -128,6 +128,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Descending Order**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/descendingOrder.js)
 - :cherry_blossom:
 [**Growth of a Population**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/growthOfPopulation.js)
+- :cherry_blossom:
+[**Sum of two lowest positive integers**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/sumTwoPositiveIntegers.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
