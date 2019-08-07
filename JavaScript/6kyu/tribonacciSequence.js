@@ -31,11 +31,10 @@ not clearly specified ;)
 
 function tribonacci (signature, n) {
   if (n === 0) return []
-  let result = [...signature]
   for (let i = 3; i < n; i++) {
-    result.push(result[i - 3] + result[i - 2] + result[i - 1])
+    signature.push(signature[i - 3] + signature[i - 2] + signature[i - 1])
   }
-  return result.slice(0, n)
+  return signature.slice(0, n)
 }
 
 // TEST CASES
