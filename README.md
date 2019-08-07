@@ -90,6 +90,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Dubstep**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/dubstep.js)
 - :cherry_blossom:
 [**Counting Duplicates**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/countingDuplicates.js)
+- :cherry_blossom:
+[**Tribonacci Sequence**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/tribonacciSequence.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
