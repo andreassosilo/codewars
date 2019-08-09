@@ -186,6 +186,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Jenny's secret message**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/jennySecretMessage.js)
 - :cherry_blossom:
 [**Keep Hydrated!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/keepHydrated.js)
+- :cherry_blossom:
+[**A Needle in the Haystack**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/needleInHaystack.js)
 
 ---
 ### Number of views: 
