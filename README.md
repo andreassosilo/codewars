@@ -22,7 +22,6 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Sudoku Solution Validator**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/sudokuSolutionValidator.js)
 
 :cherry_blossom: | :cherry_blossom:
-First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
