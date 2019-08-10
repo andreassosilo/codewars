@@ -5,8 +5,7 @@ Codewars is a site where programmers can train on programming challenges called 
 
 [<img src="https://www.codewars.com/users/andreassosilo/badges/large">](https://www.codewars.com/users/andreassosilo/)
 
-### [:crossed_swords: User: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
-### [:fox_face: Clan: Hacktiv8 ](https://www.codewars.com/users/andreassosilo/)
+### [:crossed_swords: User: andreassosilo ](https://www.codewars.com/users/andreassosilo/) | ### [:fox_face: Clan: Hacktiv8 ](https://www.codewars.com/users/andreassosilo/)
 
 ## Solved JavaScript Kata:
 ### [:open_file_folder: 4 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/4kyu)
