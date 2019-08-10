@@ -21,11 +21,6 @@ Codewars is a site where programmers can train on programming challenges called 
 - :cherry_blossom:
 [**Sudoku Solution Validator**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/sudokuSolutionValidator.js)
 
-:cherry_blossom: | :cherry_blossom:
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 ### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/5kyu)
 - :cherry_blossom:
 [**Human Readable Time**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/5kyu/readableTime.js)
