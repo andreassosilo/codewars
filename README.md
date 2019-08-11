@@ -200,6 +200,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**A Needle in the Haystack**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/needleInHaystack.js)
 - :cherry_blossom:
 [**Count of positives / sum of negatives**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/countPosSumNeg.js)
+- :cherry_blossom:
+[**Calculate average**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/calculateAverage.js)
 
 ---
 ### Number of views: 
