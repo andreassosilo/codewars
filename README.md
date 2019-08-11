@@ -5,7 +5,7 @@ Codewars is a site where programmers can train on programming challenges called 
 
 [<img src="https://www.codewars.com/users/andreassosilo/badges/large">](https://www.codewars.com/users/andreassosilo/)
 
-### [:crossed_swords: User: andreassosilo ](https://www.codewars.com/users/andreassosilo/)
+### [:crossed_swords: User: andreassosilo ](https://www.codewars.com/users/andreassosilo/)  
 ### [:fox_face: Clan: Hacktiv8 ](https://www.codewars.com/users/andreassosilo/)
 
 ## Solved JavaScript Kata:
@@ -20,6 +20,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Next smaller number with the same digits**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/nextSmallerNumber.js)
 - :cherry_blossom:
 [**Sudoku Solution Validator**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/sudokuSolutionValidator.js)
+- :cherry_blossom:
+[**Sum Strings as Numbers**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/4kyu/sumStringAsNumbers.js)
 
 ### [:open_file_folder: 5 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/5kyu)
 - :cherry_blossom:
