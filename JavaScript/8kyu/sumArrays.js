@@ -1,5 +1,5 @@
 'use strict'
-// Codewars
+// Codewars - Andreas Sosilo
 // 8 kyu - Sum Arrays
 
 /*
