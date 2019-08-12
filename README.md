@@ -206,6 +206,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Calculate average**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/calculateAverage.js)
 - :cherry_blossom:
 [**Sum Arrays**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/sumArrays.js)
+- :cherry_blossom:
+[**Count by X**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/countByX.js)
 
 ---
 ### Number of views: 
