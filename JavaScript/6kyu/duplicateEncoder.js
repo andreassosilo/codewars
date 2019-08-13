@@ -1,6 +1,6 @@
 'use strict'
 // Codewars - Andreas Sosilo
-// 6 kyu - Find the odd int
+// 6 kyu - Duplicate Encoder
 
 /*
 Task:
