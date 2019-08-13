@@ -102,6 +102,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Playing with digits**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/playingWithDigits.js)
 - :cherry_blossom:
 [**The Supermarket Queue**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/supermarketQueue.js)
+- :cherry_blossom:
+[**Duplicate Encoder**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/duplicateEncoder.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
