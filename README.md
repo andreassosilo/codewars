@@ -208,6 +208,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Sum Arrays**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/sumArrays.js)
 - :cherry_blossom:
 [**Count by X**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/countByX.js)
+- :cherry_blossom:
+[**Count the Monkeys!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/countTheMonkeys.js)
 
 ---
 ### Number of views: 
