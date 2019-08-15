@@ -1,6 +1,6 @@
 'use strict'
 // Codewars - Andreas Sosilo
-// 6 kyu - Find the unique number
+// 6 kyu - Which are in?
 
 /*
 Task:
