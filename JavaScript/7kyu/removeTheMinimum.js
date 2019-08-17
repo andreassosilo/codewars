@@ -1,6 +1,6 @@
 'use strict'
 // Codewars - Andreas Sosilo
-// 7 kyu - Get the Middle Character
+// 7 kyu - Remove the minimum
 
 /*
 Task:
