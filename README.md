@@ -156,6 +156,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Printer Errors**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/printerErrors.js)
 - :cherry_blossom:
 [**Remove the minimum**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/removeTheMinimum.js)
+- :cherry_blossom:
+[**Friend or Foe?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/friendOrFoe.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
