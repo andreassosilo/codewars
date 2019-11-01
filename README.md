@@ -162,6 +162,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Is this a triangle?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/isThisATriangle.js)
 - :cherry_blossom:
 [**Two to One**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/twoToOne.js)
+- :cherry_blossom:
+[**Beginner Series #3 Sum of Numbers*](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/sumOfNumbers.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
