@@ -1,3 +1,4 @@
+"use strict";
 // Codewars
 // 8 kyu - Swap Values
 
@@ -9,8 +10,8 @@ swapValues function to swap the values. However it appears that the
 values aren't changing. Can you figure out what's wrong here?
 */
 
-const swapValues = arr => arr.reverse()
+const swapValues = arr => arr.reverse();
 
 // TEST CASES
-var arr = [1, 2]
-console.log(swapValues(arr))
+var arr = [1, 2];
+console.log(swapValues(arr));
