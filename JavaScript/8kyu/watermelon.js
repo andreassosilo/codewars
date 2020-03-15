@@ -40,7 +40,7 @@ function divide(weight) {
 
 // TEST CASES
 console.log(divide(2)); // false
-console.log(divide(3)) // false
-console.log(divide(4)) // true
-console.log(divide(5)) // false
-console.log(divide(6)) // true 
+console.log(divide(3)); // false
+console.log(divide(4)); // true
+console.log(divide(5)); // false
+console.log(divide(6)); // true 
