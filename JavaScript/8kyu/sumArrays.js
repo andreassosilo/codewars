@@ -1,4 +1,4 @@
-'use strict'
+"use strict";
 // Codewars - Andreas Sosilo
 // 8 kyu - Sum Arrays
 
@@ -22,13 +22,13 @@ You can assume that you do get an array and if the array is empty, return 0.
 */
 
 // Sum Numbers
-function sum (numbers) {
-  return numbers.reduce((sum, value) => sum + value, 0)
+function sum(numbers) {
+  return numbers.reduce((sum, value) => sum + value, 0);
 }
 
 // BEST SOLUTION
 // const sum = num => num.reduce((a, b) => a + b, 0)
 
 // TEST CASES
-console.log(sum([])) // 0
-console.log(sum([1, 5.2, 4, 0, -1])) // 9.2
+console.log(sum([])); // 0
+console.log(sum([1, 5.2, 4, 0, -1])); // 9.2
