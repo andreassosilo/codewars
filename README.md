@@ -238,6 +238,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Century From Year**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/centuryFromYear.js)
 - :cherry_blossom:
 [**Watermelon**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/watermelon.js)
+- :cherry_blossom:
+[**Convert number to reversed array of digits**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/convertReversedNumberArray.js)
 
 ---
 ### Number of views: 
