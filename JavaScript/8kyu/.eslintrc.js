@@ -5,7 +5,7 @@ module.exports = {
     node: true
   },
   extends: [
-    'standard'
+    'airbnb'
   ],
   globals: {
     Atomics: 'readonly',
@@ -15,6 +15,5 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: 'module'
   },
-  rules: {
-  }
+  rules: {}
 }

@@ -1,3 +1,4 @@
+"use strict";
 // Codewars
 // 8 kyu - Total amount of points
 
@@ -22,20 +23,20 @@ there are 10 matches in the championship
 0 <= y <= 4
 */
 
-function points (games) {
-  let total = 0
+function points(games) {
+  let total = 0;
   for (let i = 0; i < games.length; i++) {
-    let x = parseInt(games[i][0])
-    let y = parseInt(games[i][2])
+    let x = parseInt(games[i][0]);
+    let y = parseInt(games[i][2]);
     // console.log(x, y)
     if (x > y) {
-      total += 3
+      total += 3;
     } else if (x === y) {
-      total += 1
+      total += 1;
     }
   }
-  return total
+  return total;
 }
 
 // TEST CASES
-console.log(points(['1:0', '2:0', '3:0', '4:0', '2:1', '3:1', '4:1', '3:2', '4:2', '4:3'])) // 30
+console.log(points(['1:0', '2:0', '3:0', '4:0', '2:1', '3:1', '4:1', '3:2', '4:2', '4:3'])); // 30
