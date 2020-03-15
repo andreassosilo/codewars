@@ -108,6 +108,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Which are in?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/whichAreIn.js)
 - :cherry_blossom:
 [**A String of Sorts**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/aStringOfSorts.js)
+- :cherry_blossom:
+[**Unique In Order**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/uniqueInOrder.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
@@ -240,8 +242,6 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Watermelon**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/watermelon.js)
 - :cherry_blossom:
 [**Convert number to reversed array of digits**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/convertReversedNumberArray.js)
-- :cherry_blossom:
-[**Unique In Order**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/uniqueInOrder.js)
 
 ---
 ### Number of views: 
