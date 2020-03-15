@@ -236,6 +236,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Function 1 - hello world**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/function1HelloWorld.js)
 - :cherry_blossom:
 [**Century From Year**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/centuryFromYear.js)
+- :cherry_blossom:
+[**Watermelon**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/watermelon.js)
 
 ---
 ### Number of views: 
