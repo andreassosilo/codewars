@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 // Codewars - Andreas Sosilo
 // 8 kyu - Sum of positive
 
@@ -26,6 +26,6 @@ function positiveSum(arr) {
 }
 
 // TEST CASES
-console.log(positiveSum([1, 2, 3, 4, 5])) // 15
-console.log(positiveSum([-1, -2, -3, -4, -5])) // 0
-console.log(positiveSum(positiveSum([]))) // 0
+console.log(positiveSum([1, 2, 3, 4, 5])); // 15
+console.log(positiveSum([-1, -2, -3, -4, -5])); // 0
+console.log(positiveSum(positiveSum([]))); // 0

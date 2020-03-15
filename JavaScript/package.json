@@ -1,0 +1,20 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "JavaScript CodeWars Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codewars",
+    "kata"
+  ],
+  "author": "Andreas Sosilo",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
