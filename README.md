@@ -242,6 +242,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Watermelon**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/watermelon.js)
 - :cherry_blossom:
 [**Convert number to reversed array of digits**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/convertReversedNumberArray.js)
+- :cherry_blossom:
+[**Abbreviate a Two Word Name**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/abbreviateTwoWordName.js)
 
 ---
 ### Number of views: 
