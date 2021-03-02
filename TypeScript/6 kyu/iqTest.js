@@ -18,9 +18,7 @@ iqTest("1 2 1 1") => 2 // Second number is even, while the rest of the numbers a
 function iqTest(numbers) {
     var numArr = numbers.split(" ").map(function (e) { return parseInt(e); });
     var odd = numArr.filter(function (e) { return e % 2 === 1; });
-    console.log(odd);
     var even = numArr.filter(function (e) { return e % 2 === 0; });
-    console.log(even);
     return odd.length < even.length
         ? numArr.indexOf(odd[0]) + 1
         : numArr.indexOf(even[0]) + 1;
