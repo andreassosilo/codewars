@@ -248,5 +248,3 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Beginner - Lost Without a Map**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/beginnerLostWithoutAMap.js)
 
 ---
-### Number of views: 
-[![HitCount](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars.svg)](http://hits.dwyl.io/andreassosilo/https://githubcom/andreassosilo/codewars)
