@@ -246,5 +246,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Abbreviate a Two Word Name**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/abbreviateTwoWordName.js)
 - :cherry_blossom:
 [**Beginner - Lost Without a Map**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/beginnerLostWithoutAMap.js)
+- :cherry_blossom:
+[**You Can't Code Under Pressure #1**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/youCantCodeUnderPressure1.js)
 
 ---
