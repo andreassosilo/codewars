@@ -168,6 +168,9 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Beginner Series #3 Sum of Numbers**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/sumOfNumbers.js)
 - :cherry_blossom:
 [**Credit Card Mask**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/creditCardMask.js)
+- :cherry_blossom:
+[**Binary Addition**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/binaryAddition.js)
+
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
