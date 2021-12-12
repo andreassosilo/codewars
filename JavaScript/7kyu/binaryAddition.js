@@ -16,7 +16,6 @@ Examples:(Input1, Input2 --> Output (explanation)))
 */
 
 // SOLUTION
-
 const addBinary = (a, b) => {
   return (a + b).toString(2);
 };
