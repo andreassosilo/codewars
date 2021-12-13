@@ -172,6 +172,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Binary Addition**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/binaryAddition.js)
 - :cherry_blossom:
 [**Categorize New Member**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/categorizeNewMember.js)
+- :cherry_blossom:
+[**Ones and Zeros**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/onesAndZeros.js)
 
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
