@@ -1,5 +1,5 @@
 # Codewars
-Codewars is a site where programmers can train on programming challenges called *Kata*. This is my repository for my kata collections in Codewars. **Feel free to check and do not forget to like or give star for this repository! Thank you.**
+Codewars is a site where programmers can train on programming challenges called *Kata*. This is my repository for my kata collections in Codewars. **Feel free to check this repository! Thank you.**
 
 <img height="270" src="https://miro.medium.com/max/1050/1*a9L7ZZhi8hIAJmWXmSaPXw.png">
 
