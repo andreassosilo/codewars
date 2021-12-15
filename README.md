@@ -180,6 +180,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Breaking chocolate problem**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/breakingChocolateProblem.js)
 - :cherry_blossom:
 [**The highest profit wins!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/theHighestProfitWins.js)
+- :cherry_blossom:
+[**Sort Numbers**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/sortNumbers.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
