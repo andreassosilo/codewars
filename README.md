@@ -184,6 +184,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Sort Numbers**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/sortNumbers.js)
 - :cherry_blossom:
 [**Count the Digit**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/countTheDigit.js)
+- :cherry_blossom:
+[**Money, Money, Money**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/moneyMoneyMoney.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
