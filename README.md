@@ -188,6 +188,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Count the Digit**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/countTheDigit.js)
 - :cherry_blossom:
 [**Money, Money, Money**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/moneyMoneyMoney.js)
+- :cherry_blossom:
+[**Find the stray number**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/findTheStrayNumber.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
