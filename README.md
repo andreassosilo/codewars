@@ -114,6 +114,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Decode the Morse code**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/decodeTheMorseCode.js)
 - :cherry_blossom:
 [**Replace With Alphabet Position**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/replaceAlphabetPosition.js)
+- :cherry_blossom:
+[**Convert string to camel case**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/convertStringToCamelCase.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
