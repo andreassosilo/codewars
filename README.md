@@ -116,6 +116,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Replace With Alphabet Position**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/replaceAlphabetPosition.js)
 - :cherry_blossom:
 [**Convert string to camel case**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/convertStringToCamelCase.js)
+- :cherry_blossom:
+[**Is a number prime?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/isANumberPrime.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
