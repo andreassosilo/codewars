@@ -192,6 +192,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Money, Money, Money**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/moneyMoneyMoney.js)
 - :cherry_blossom:
 [**Find the stray number**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/findTheStrayNumber.js)
+- :cherry_blossom:
+[**Sum of the first nth term of Series**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/sumOfTheFirstNthTermSeries.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
