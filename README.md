@@ -200,6 +200,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Factorial**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/factorial.js)
 - :cherry_blossom:
 [**Two Oldest Ages**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/twoOldestAges.js)
+- :cherry_blossom:
+[**Don't give me five!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/dontGiveMeFive.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
