@@ -206,6 +206,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Don't give me five!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/dontGiveMeFive.js)
 - :cherry_blossom:
 [**Triangular Treasure**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/triangularTreasure.js)
+- :cherry_blossom:
+[**Testing 1-2-3**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/testing123.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
