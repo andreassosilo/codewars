@@ -28,3 +28,6 @@ const number = (array) =>
 // TEST CASES
 console.log(number([])); // []
 console.log(number(['a', 'b', 'c'])); // ["1: a", "2: b", "3: c"]
+
+// BEST SOLUTION
+// const number = array => array.map((n, i) => `${i + 1}: ${n}`);
