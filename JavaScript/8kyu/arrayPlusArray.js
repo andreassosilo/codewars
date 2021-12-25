@@ -1,6 +1,6 @@
 'use strict';
 // Codewars - Andreas Sosilo
-// 8 kyu - Get Planet Name By ID
+// 8 kyu - Array plus array
 
 /*
 Task:
