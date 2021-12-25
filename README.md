@@ -120,6 +120,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Is a number prime?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/isANumberPrime.js)
 - :cherry_blossom:
 [**Sort the odd**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/sortTheOdd.js)
+- :cherry_blossom:
+[**Detect Pangram**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/detectPangram.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
