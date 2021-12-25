@@ -292,5 +292,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**You Can't Code Under Pressure #1**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/youCantCodeUnderPressure1.js)
 - :cherry_blossom:
 [**Get Planet Name By ID**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/getPlanetNameByID.js)
+- :cherry_blossom:
+[**Array plus array**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/arrayPlusArray.js)
 
 ---
