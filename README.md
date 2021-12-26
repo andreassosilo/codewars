@@ -296,5 +296,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Get Planet Name By ID**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/getPlanetNameByID.js)
 - :cherry_blossom:
 [**Array plus array**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/arrayPlusArray.js)
+- :cherry_blossom:
+[**You only need one - Beginner**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/youOnlyNeedOne.js)
 
 ---
