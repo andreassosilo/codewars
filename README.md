@@ -298,5 +298,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Array plus array**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/arrayPlusArray.js)
 - :cherry_blossom:
 [**You only need one - Beginner**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/youOnlyNeedOne.js)
+- :cherry_blossom:
+[**Will you make it?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/willYouMakeIt.js)
 
 ---
