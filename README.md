@@ -306,5 +306,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Will you make it?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/willYouMakeIt.js)
 - :cherry_blossom:
 [**Short Long Short**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/shortLongShort.js)
+- :cherry_blossom:
+[**Rock Paper Scissors!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/rockPaperScissors.js)
 
 ---
