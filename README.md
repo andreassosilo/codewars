@@ -214,6 +214,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Testing 1-2-3**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/testing123.js)
 - :cherry_blossom:
 [**Find the capitals**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/findTheCapitals.js)
+- :cherry_blossom:
+[**Sort array by string length**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/sortArrayByStringLength.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
