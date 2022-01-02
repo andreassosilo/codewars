@@ -312,5 +312,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Rock Paper Scissors!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/rockPaperScissors.js)
 - :cherry_blossom:
 [**Grasshopper - Personalized Message**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/grasshopperPersonalizedMessage.js)
+- :cherry_blossom:
+[**Switch it Up!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/switchItUp.js)
 
 ---
