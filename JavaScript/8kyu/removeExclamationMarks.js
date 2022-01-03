@@ -1,6 +1,6 @@
 'use strict';
 // Codewars - Andreas Sosilo
-// 8 kyu - Switch it Up!
+// 8 kyu - Remove exclamation marks
 
 /*
 Task:
