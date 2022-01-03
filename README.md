@@ -316,5 +316,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Switch it Up!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/switchItUp.js)
 - :cherry_blossom:
 [**Remove exclamation marks**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/removeExclamationMarks.js)
+- :cherry_blossom:
+[**Parse nice int from char problem**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/parseNiceIntFromChar.js)
 
 ---
