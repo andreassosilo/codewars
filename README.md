@@ -322,5 +322,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Parse nice int from char problem**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/parseNiceIntFromChar.js)
 - :cherry_blossom:
 [**Basic variable assignment**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/basicVariableAssignment.js)
+- :cherry_blossom:
+[**Quarter of the year**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/quarterOfTheYear.js)
 
 ---
