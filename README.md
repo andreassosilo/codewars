@@ -328,5 +328,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Basic variable assignment**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/basicVariableAssignment.js)
 - :cherry_blossom:
 [**Quarter of the year**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/quarterOfTheYear.js)
+- :cherry_blossom:
+[**Keep up the hoop**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/keepUpTheHoop.js)
 
 ---
