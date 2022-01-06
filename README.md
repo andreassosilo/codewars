@@ -334,5 +334,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Quarter of the year**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/quarterOfTheYear.js)
 - :cherry_blossom:
 [**Keep up the hoop**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/keepUpTheHoop.js)
+- :cherry_blossom:
+[**Cat years, Dog years**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/catYearsDogYears.js)
 
 ---
