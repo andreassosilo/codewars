@@ -226,6 +226,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Remove anchor from URL**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/removeAnchorFromUrl.js)
 - :cherry_blossom:
 [**Power of two**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/powerOfTwo.js)
+- :cherry_blossom:
+[**Speed Control**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/speedControl.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
