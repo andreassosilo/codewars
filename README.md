@@ -340,5 +340,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Cat years, Dog years**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/catYearsDogYears.js)
 - :cherry_blossom:
 [**Sum The Strings**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/sumTheStrings.js)
+- :cherry_blossom:
+[**What is between?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/whatIsBetween.js)
 
 ---
