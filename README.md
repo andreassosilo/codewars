@@ -128,6 +128,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Reverse or rotate?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/reverseOrRotate.js)
 - :cherry_blossom:
 [**Array Helpers**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/arrayHelpers.js)
+- :cherry_blossom:
+[**Make the Deadfish swim**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/6kyu/makeTheDeadfishSwim.js)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/7kyu)
 - :cherry_blossom:
