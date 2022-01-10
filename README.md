@@ -238,6 +238,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Caffeine Script**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/caffeineScript.js)
 - :cherry_blossom:
 [**Over The Road**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/overTheRoad.js)
+- :cherry_blossom:
+[**Most digits*](https://github.com/andreassosilo/codewars/blob/master/JavaScript/7kyu/mostDigits.js)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/8kyu)
 - :cherry_blossom:
