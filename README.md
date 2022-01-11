@@ -358,5 +358,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Reverse List Order**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/reverseListOrder.js)
 - :cherry_blossom:
 [**Vowel remover**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/vowelRemover.js)
+- :cherry_blossom:
+[**Name Shuffler**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/nameShuffler.js)
 
 ---
