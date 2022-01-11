@@ -356,5 +356,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**What is between?**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/whatIsBetween.js)
 - :cherry_blossom:
 [**Reverse List Order**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/reverseListOrder.js)
+- :cherry_blossom:
+[**Vowel remover**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/vowelRemover.js)
 
 ---
