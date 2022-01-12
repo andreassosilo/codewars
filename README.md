@@ -362,5 +362,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Vowel remover**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/vowelRemover.js)
 - :cherry_blossom:
 [**Name Shuffler**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/nameShuffler.js)
+- :cherry_blossom:
+[**Smallest unused ID**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/smallestUnusedId.js)
+
 
 ---
