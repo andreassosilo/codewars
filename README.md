@@ -60,6 +60,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Greed is Good**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/5kyu/greedIsGood.js)
 - :cherry_blossom:
 [**Double Cola**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/5kyu/doubleCola.js)
+- :cherry_blossom:
+[**Pete, the baker**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/5kyu/peteTheBaker.js)
 
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/JavaScript/6kyu)
 - :cherry_blossom:
