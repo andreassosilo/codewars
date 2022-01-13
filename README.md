@@ -366,6 +366,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Name Shuffler**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/nameShuffler.js)
 - :cherry_blossom:
 [**Smallest unused ID**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/smallestUnusedId.js)
+- :cherry_blossom:
+[**Plural**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/plural.js)
 
 
 ---
