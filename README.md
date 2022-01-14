@@ -371,11 +371,9 @@ Codewars is a site where programmers can train on programming challenges called 
 - :cherry_blossom:
 [**5 without numbers !!*](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/unusualFive.js)
 
----
-
 ## Solved TypeScript Kata:
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
-- :cherry_blossom:
+- 🌷
 [**Convert a string to an array**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/convertStringToArray.ts)
 
 ---
