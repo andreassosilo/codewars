@@ -373,7 +373,7 @@ Codewars is a site where programmers can train on programming challenges called 
 
 ## Solved TypeScript Kata:
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
-- 🌷
+- 🏵️
 [**Convert a string to an array**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/convertStringToArray.ts)
 
 ---
