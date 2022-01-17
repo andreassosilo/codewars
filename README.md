@@ -377,5 +377,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Convert a string to an array**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/convertStringToArray.ts)
 - 🏵️
 [**Can we divide it?**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/canWeDivideIt.ts)
+- 🏵️
+[**Sort and Star**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/sortAndStar.ts)
 
 ---
