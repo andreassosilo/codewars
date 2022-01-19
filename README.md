@@ -385,6 +385,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Sort and Star**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/sortAndStar.ts)
 - 🏵️
 [**Is it even?**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/isItEven.ts)
-
+- 🏵️
+[**Student's Final Grade**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/studentsFinalGrade.ts)
 
 ---
