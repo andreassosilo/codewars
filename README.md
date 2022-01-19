@@ -372,6 +372,10 @@ Codewars is a site where programmers can train on programming challenges called 
 [**5 without numbers !!**](https://github.com/andreassosilo/codewars/blob/master/JavaScript/8kyu/unusualFive.js)
 
 ## Solved TypeScript Kata:
+### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/7kyu)
+- 🏵️
+[**Simple beads count**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/simpleBeadsCount.ts)
+
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
 [**Convert a string to an array**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/convertStringToArray.ts)
