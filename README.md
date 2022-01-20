@@ -387,5 +387,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Is it even?**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/isItEven.ts)
 - 🏵️
 [**Student's Final Grade**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/studentsFinalGrade.ts)
+- 🏵️
+[**Subtract the Sum**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/studentsFinalGrade.ts)
 
 ---
