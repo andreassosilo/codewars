@@ -379,6 +379,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Maximum Product**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/maximumProduct.ts)
 - 🏵️
 [**Build a square**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/buildASquare.ts)
+- 🏵️
+[**Alphabetical Addition**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/alphabeticalAddition.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
