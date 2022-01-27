@@ -1,7 +1,13 @@
 {
   "compilerOptions": {
-    "target": "ES2019",
+    "lib": ["es2021"],
     "module": "commonjs",
-    "sourceMap": true
+    "target": "ES2021",
+
+    "sourceMap": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
   }
 }
