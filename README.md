@@ -387,6 +387,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**JavaScript Array Filter**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/javascriptArrayFilter.ts)
 - 🏵️
 [**Flatten and sort an array**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/flattenAndSortArray.ts)
+- 🏵️
+[**Collision Detection**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/collisionDetection.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
