@@ -391,6 +391,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Collision Detection**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/collisionDetection.ts)
 - 🏵️
 [**Point in a unit circle**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/pointUnitCircle.ts)
+- 🏵️
+[**Integer Difference**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/integerDifference.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
