@@ -374,7 +374,7 @@ Codewars is a site where programmers can train on programming challenges called 
 ## Solved TypeScript Kata:
 ### [:open_file_folder: 6 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/6kyu)
 - 🏵️
-[**Simple beads count**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/6kyu/doesMyNumberLookBig.ts)
+[**Does my number look big in this?**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/6kyu/doesMyNumberLookBig.ts)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/7kyu)
 - 🏵️
