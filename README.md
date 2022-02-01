@@ -397,6 +397,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Point in a unit circle**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/pointUnitCircle.ts)
 - 🏵️
 [**Integer Difference**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/integerDifference.ts)
+- 🏵️
+[**Maximum Multiple**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/maximumMultiple.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
