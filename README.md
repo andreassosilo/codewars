@@ -403,6 +403,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Bumps in the Road**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/bumpsInTheRoad.ts)
 - 🏵️
 [**Average Scores**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/averageScores.ts)
+- 🏵️
+[**Boiled Eggs**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/boiledEggs.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
