@@ -423,5 +423,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Subtract the Sum**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/subtractTheSum.ts)
 - 🏵️
 [**MakeUpperCase**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/makeUpperCase.ts)
+- 🏵️
+[**Hex to Decimal**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/hexToDecimal.ts)
 
 ---
