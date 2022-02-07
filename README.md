@@ -425,5 +425,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**MakeUpperCase**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/makeUpperCase.ts)
 - 🏵️
 [**Hex to Decimal**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/hexToDecimal.ts)
+- 🏵️
+[**Find the position!**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/findThePosition.ts)
 
 ---
