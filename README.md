@@ -427,5 +427,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Hex to Decimal**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/hexToDecimal.ts)
 - 🏵️
 [**Find the position!**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/findThePosition.ts)
+- 🏵️
+[**Exclamation marks series #1: Remove an exclamation mark from the end of string**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/exclamationMark1.ts)
 
 ---
