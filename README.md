@@ -431,5 +431,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Exclamation marks series #1: Remove an exclamation mark from the end of string**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/exclamationMark1.ts)
 - 🏵️
 [**Correct the mistakes of the character recognition software**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/characterRecognitionSoftware.ts)
+- 🏵️
+[**Well of Ideas - Easy Version**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/wellOfIdeas.ts)
 
 ---
