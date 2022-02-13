@@ -439,5 +439,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Filling an array (part 1)**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/fillAnArrayPart1.ts)
 - 🏵️
 [**Basic Training: Add item to an Array**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/addItemToAnArray.ts)
+- 🏵️
+[**Expressions Matter**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/expressionsMatter.ts)
 
 ---
