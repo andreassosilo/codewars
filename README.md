@@ -409,6 +409,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Boiled Eggs**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/boiledEggs.ts)
 - 🏵️
 [**Incrementer**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/incrementer.ts)
+- 🏵️
+[**The fusc function -- Part 1**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/fuscPart1.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
