@@ -445,5 +445,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Basic Training: Add item to an Array**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/addItemToAnArray.ts)
 - 🏵️
 [**Expressions Matter**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/expressionsMatter.ts)
+- 🏵️
+[**Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/exclamationMark4.ts)
 
 ---
