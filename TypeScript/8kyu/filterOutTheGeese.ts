@@ -47,6 +47,3 @@ console.log(
 console.log(
   gooseFilter(['African', 'Roman Tufted', 'Toulouse', 'Pilgrim', 'Steinbacher'])
 ); // []
-
-// BEST SOLUTION
-// export const remove = s => s.replace(/\!/g,"") + "!";
