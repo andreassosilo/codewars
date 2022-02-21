@@ -451,5 +451,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Filter out the geese**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/filterOutTheGeese.ts)
 - 🏵️
 [**Are You Playing Banjo?**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/areYouPlayingBanjo.ts)
+- 🏵️
+[**For Twins: 2. Math operations**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/Twins2MathOperation.ts)
 
 ---
