@@ -413,6 +413,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**The fusc function -- Part 1**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/fuscPart1.ts)
 - 🏵️
 [**Billiards triangle**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/billiardsTriangle.ts)
+- 🏵️
+[**Char Code Calculation**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/charCodeCalculation.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
@@ -453,7 +455,5 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Are You Playing Banjo?**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/areYouPlayingBanjo.ts)
 - 🏵️
 [**For Twins: 2. Math operations**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/forTwins2MathOperation.ts)
-- 🏵️
-[**Char Code Calculation**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/charCodeCalculation.ts)
 
 ---
