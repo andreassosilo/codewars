@@ -377,6 +377,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Does my number look big in this?**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/6kyu/buyingACar.ts)
 - 🏵️
 [**Buying a car**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/6kyu/doesMyNumberLookBig.ts)
+- 🏵️
+[**Meeting**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/6kyu/meeting.ts)
 
 ### [:open_file_folder: 7 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/7kyu)
 - 🏵️
