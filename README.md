@@ -421,6 +421,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Longest vowel chain**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/longestVowelChain.ts)
 - 🏵️
 [**Fix string case**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/fixStringCase.ts)
+- 🏵️
+[**Very Even" Numbers.**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/veryEvenNumbers.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
