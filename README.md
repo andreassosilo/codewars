@@ -465,5 +465,7 @@ Codewars is a site where programmers can train on programming challenges called 
 [**For Twins: 2. Math operations**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/forTwins2MathOperation.ts)
 - 🏵️
 [**Beginner Series #1 School Paperwork**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/bs1SchoolPaperwork.ts)
+- 🏵️
+[**Area of a Square**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/8kyu/areaOfASquare.ts)
 
 ---
