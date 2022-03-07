@@ -423,6 +423,8 @@ Codewars is a site where programmers can train on programming challenges called 
 [**Fix string case**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/fixStringCase.ts)
 - 🏵️
 [**Very Even" Numbers.**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/veryEvenNumbers.ts)
+- 🏵️
+[**Computer problem series #1: Fill the Hard Disk Drive**](https://github.com/andreassosilo/codewars/blob/master/TypeScript/7kyu/fillTheHardDiskDrive.ts)
 
 ### [:open_file_folder: 8 Kyu](https://github.com/andreassosilo/codewars/tree/master/TypeScript/8kyu)
 - 🏵️
